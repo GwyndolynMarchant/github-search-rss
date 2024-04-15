@@ -5,11 +5,14 @@
 import { RSSItem } from "./index";
 
 const BASE_URL = "https://azu.github.io/github-search-rss";
+
 // Query references
 // https://docs.github.com/en/github/searching-for-information-on-github/understanding-the-search-syntax
 // https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github
+
 // TYPE references
 // https://docs.github.com/en/graphql/reference/queries#searchresultitemconnection
+
 export const SEARCH_ITEMS: RSSItem[] = [
     {
         title: "Playstation Vita repositories",
