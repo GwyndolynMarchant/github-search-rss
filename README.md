@@ -1,4 +1,4 @@
-# github-search-rss
+# github-search-rss 
 
 GitHub Search Results as RSS Feeds via GitHub Actions.
 
