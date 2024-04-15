@@ -16,5 +16,5 @@ export const SEARCH_ITEMS: RSSItem[] = [
         query: "vita OR psvita OR ps-vita OR psv OR playstation-vita in:topics",
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/ps-vita-repo.json`
-    }
+    },
 ];
