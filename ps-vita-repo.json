@@ -127,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9152710?u=2a667282888b6e3d5f8d3e43a438a7040a2891af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multifunction plugin for PSVITA.</div>",
-            "url": "https://github.com/Rinnegatamante/rinCheat",
-            "title": "Rinnegatamante/rinCheat: Multifunction plugin for PSVITA.",
-            "date_modified": "2024-03-17T19:39:31.000Z",
-            "date_published": "2016-09-06T09:18:55.000Z",
-            "author": {
-                "name": "Rinnegatamante",
-                "url": "https://github.com/Rinnegatamante"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13071547?u=2f3b2d05d6e95f8c0258cd72d2e3c3718a9f565e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Portable Final Burn Alpha</div>",
             "url": "https://github.com/rsn8887/pfba",
             "title": "rsn8887/pfba: Portable Final Burn Alpha",
@@ -146,6 +135,17 @@
             "author": {
                 "name": "rsn8887",
                 "url": "https://github.com/rsn8887"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9152710?u=2a667282888b6e3d5f8d3e43a438a7040a2891af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multifunction plugin for PSVITA.</div>",
+            "url": "https://github.com/Rinnegatamante/rinCheat",
+            "title": "Rinnegatamante/rinCheat: Multifunction plugin for PSVITA.",
+            "date_modified": "2024-03-17T19:39:31.000Z",
+            "date_published": "2016-09-06T09:18:55.000Z",
+            "author": {
+                "name": "Rinnegatamante",
+                "url": "https://github.com/Rinnegatamante"
             }
         },
         {
