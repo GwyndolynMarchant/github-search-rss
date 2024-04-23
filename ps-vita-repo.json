@@ -138,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/560596?u=69839b4b5f81ab794651e83a43173f966d59a7cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use a DS4 on your PSVita</div>",
-            "url": "https://github.com/xerpi/ds4vita",
-            "title": "xerpi/ds4vita: Use a DS4 on your PSVita",
-            "date_modified": "2024-02-14T04:32:20.000Z",
-            "date_published": "2016-12-26T15:33:29.000Z",
-            "author": {
-                "name": "xerpi",
-                "url": "https://github.com/xerpi"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9152710?u=2a667282888b6e3d5f8d3e43a438a7040a2891af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multifunction plugin for PSVITA.</div>",
             "url": "https://github.com/Rinnegatamante/rinCheat",
             "title": "Rinnegatamante/rinCheat: Multifunction plugin for PSVITA.",
@@ -157,6 +146,17 @@
             "author": {
                 "name": "Rinnegatamante",
                 "url": "https://github.com/Rinnegatamante"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/560596?u=69839b4b5f81ab794651e83a43173f966d59a7cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use a DS4 on your PSVita</div>",
+            "url": "https://github.com/xerpi/ds4vita",
+            "title": "xerpi/ds4vita: Use a DS4 on your PSVita",
+            "date_modified": "2024-02-14T04:32:20.000Z",
+            "date_published": "2016-12-26T15:33:29.000Z",
+            "author": {
+                "name": "xerpi",
+                "url": "https://github.com/xerpi"
             }
         },
         {
