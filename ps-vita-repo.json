@@ -9,22 +9,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20092823?u=69ba5d342a5acd1dc3d03f460e9aa131d90d38ac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>List of awesome stuff for PlayStation Vita</div>",
             "url": "https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita",
             "title": "MuxaJlbl4/Awesome-PlayStation-Vita: List of awesome stuff for PlayStation Vita",
-            "date_modified": "2024-04-22T18:33:45.000Z",
+            "date_modified": "2024-04-23T14:38:40.000Z",
             "date_published": "2020-06-25T10:30:51.000Z",
             "author": {
                 "name": "MuxaJlbl4",
                 "url": "https://github.com/MuxaJlbl4"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61178?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cross-platform content manager assistant for the PS Vita (No longer maintained)</div>",
-            "url": "https://github.com/codestation/qcma",
-            "title": "codestation/qcma: Cross-platform content manager assistant for the PS Vita (No longer maintained)",
-            "date_modified": "2024-04-18T21:33:20.000Z",
-            "date_published": "2013-08-11T21:37:25.000Z",
-            "author": {
-                "name": "codestation",
-                "url": "https://github.com/codestation"
             }
         },
         {
@@ -36,6 +25,17 @@
             "author": {
                 "name": "Vita3K",
                 "url": "https://github.com/Vita3K"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61178?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cross-platform content manager assistant for the PS Vita (No longer maintained)</div>",
+            "url": "https://github.com/codestation/qcma",
+            "title": "codestation/qcma: Cross-platform content manager assistant for the PS Vita (No longer maintained)",
+            "date_modified": "2024-04-18T21:33:20.000Z",
+            "date_published": "2013-08-11T21:37:25.000Z",
+            "author": {
+                "name": "codestation",
+                "url": "https://github.com/codestation"
             }
         },
         {
@@ -119,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9152710?u=2a667282888b6e3d5f8d3e43a438a7040a2891af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Port of Quake for Playstation Vita</div>",
             "url": "https://github.com/Rinnegatamante/vitaQuake",
             "title": "Rinnegatamante/vitaQuake: Port of Quake for Playstation Vita",
-            "date_modified": "2024-03-28T01:58:04.000Z",
+            "date_modified": "2024-04-23T14:32:47.000Z",
             "date_published": "2015-10-23T10:39:54.000Z",
             "author": {
                 "name": "Rinnegatamante",
