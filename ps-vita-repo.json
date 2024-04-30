@@ -17,17 +17,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34121543?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental PlayStation Vita emulator</div>",
-            "url": "https://github.com/Vita3K/Vita3K",
-            "title": "Vita3K/Vita3K: Experimental PlayStation Vita emulator",
-            "date_modified": "2024-04-30T00:32:14.000Z",
-            "date_published": "2018-01-26T22:45:05.000Z",
-            "author": {
-                "name": "Vita3K",
-                "url": "https://github.com/Vita3K"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61178?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cross-platform content manager assistant for the PS Vita (No longer maintained)</div>",
             "url": "https://github.com/codestation/qcma",
             "title": "codestation/qcma: Cross-platform content manager assistant for the PS Vita (No longer maintained)",
@@ -36,6 +25,17 @@
             "author": {
                 "name": "codestation",
                 "url": "https://github.com/codestation"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34121543?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental PlayStation Vita emulator</div>",
+            "url": "https://github.com/Vita3K/Vita3K",
+            "title": "Vita3K/Vita3K: Experimental PlayStation Vita emulator",
+            "date_modified": "2024-04-30T00:32:14.000Z",
+            "date_published": "2018-01-26T22:45:05.000Z",
+            "author": {
+                "name": "Vita3K",
+                "url": "https://github.com/Vita3K"
             }
         },
         {
