@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20092823?u=69ba5d342a5acd1dc3d03f460e9aa131d90d38ac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>List of awesome stuff for PlayStation Vita</div>",
             "url": "https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita",
             "title": "MuxaJlbl4/Awesome-PlayStation-Vita: List of awesome stuff for PlayStation Vita",
-            "date_modified": "2024-05-04T16:55:10.000Z",
+            "date_modified": "2024-05-06T17:47:24.000Z",
             "date_published": "2020-06-25T10:30:51.000Z",
             "author": {
                 "name": "MuxaJlbl4",
@@ -75,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9152710?u=2a667282888b6e3d5f8d3e43a438a7040a2891af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lua Player Plus for PSVITA. Documentation on: <a href=\"http://rinnegatamante.github.io/lpp-vita/\" rel=\"nofollow\">http://rinnegatamante.github.io/lpp-vita/</a></div>",
             "url": "https://github.com/Rinnegatamante/lpp-vita",
             "title": "Rinnegatamante/lpp-vita: Lua Player Plus for PSVITA. Documentation on: http://rinnegatamante.github.io/lpp-vita/",
-            "date_modified": "2024-03-24T23:15:31.000Z",
+            "date_modified": "2024-05-06T17:58:54.000Z",
             "date_published": "2015-09-02T17:42:32.000Z",
             "author": {
                 "name": "Rinnegatamante",
@@ -86,22 +86,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1558589?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Pico-8 player/emulator for console homebrew</div>",
             "url": "https://github.com/jtothebell/fake-08",
             "title": "jtothebell/fake-08: A Pico-8 player/emulator for console homebrew",
-            "date_modified": "2024-05-04T12:38:44.000Z",
+            "date_modified": "2024-05-06T17:57:35.000Z",
             "date_published": "2020-04-11T04:04:11.000Z",
             "author": {
                 "name": "jtothebell",
                 "url": "https://github.com/jtothebell"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9152710?u=2a667282888b6e3d5f8d3e43a438a7040a2891af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Transform your PSVITA into a PC Controller</div>",
-            "url": "https://github.com/Rinnegatamante/VitaPad",
-            "title": "Rinnegatamante/VitaPad: Transform your PSVITA into a PC Controller",
-            "date_modified": "2024-04-11T17:49:45.000Z",
-            "date_published": "2016-08-07T12:20:30.000Z",
-            "author": {
-                "name": "Rinnegatamante",
-                "url": "https://github.com/Rinnegatamante"
             }
         },
         {
@@ -116,10 +105,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9152710?u=2a667282888b6e3d5f8d3e43a438a7040a2891af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Transform your PSVITA into a PC Controller</div>",
+            "url": "https://github.com/Rinnegatamante/VitaPad",
+            "title": "Rinnegatamante/VitaPad: Transform your PSVITA into a PC Controller",
+            "date_modified": "2024-04-11T17:49:45.000Z",
+            "date_published": "2016-08-07T12:20:30.000Z",
+            "author": {
+                "name": "Rinnegatamante",
+                "url": "https://github.com/Rinnegatamante"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9152710?u=2a667282888b6e3d5f8d3e43a438a7040a2891af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Port of Quake for Playstation Vita</div>",
             "url": "https://github.com/Rinnegatamante/vitaQuake",
             "title": "Rinnegatamante/vitaQuake: Port of Quake for Playstation Vita",
-            "date_modified": "2024-04-23T14:32:47.000Z",
+            "date_modified": "2024-05-06T17:59:18.000Z",
             "date_published": "2015-10-23T10:39:54.000Z",
             "author": {
                 "name": "Rinnegatamante",
@@ -193,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/452720?u=7e9c371aedaa27d5656434600e1e89c0c97dca48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio.</div>",
-            "url": "https://github.com/usineur/hode",
-            "title": "usineur/hode: hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio.",
-            "date_modified": "2024-03-07T18:39:41.000Z",
-            "date_published": "2019-10-25T08:49:37.000Z",
-            "author": {
-                "name": "usineur",
-                "url": "https://github.com/usineur"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1490889?u=883b3b9af502d1422f5f00b84a46b065942bd412&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Incomplete set of tools for MRG/MZX based engine</div>",
             "url": "https://github.com/mchubby/psp-ayakashibito_tools",
             "title": "mchubby/psp-ayakashibito_tools: Incomplete set of tools for MRG/MZX based engine",
@@ -212,6 +201,17 @@
             "author": {
                 "name": "mchubby",
                 "url": "https://github.com/mchubby"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/452720?u=7e9c371aedaa27d5656434600e1e89c0c97dca48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio.</div>",
+            "url": "https://github.com/usineur/hode",
+            "title": "usineur/hode: hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio.",
+            "date_modified": "2024-05-06T18:01:21.000Z",
+            "date_published": "2019-10-25T08:49:37.000Z",
+            "author": {
+                "name": "usineur",
+                "url": "https://github.com/usineur"
             }
         },
         {
