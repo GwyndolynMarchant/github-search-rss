@@ -53,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2824100?u=691a9322ced036e4635779cfb1822616507609fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental minimum brightness lowering plugin</div>",
             "url": "https://github.com/devnoname120/vitabright",
             "title": "devnoname120/vitabright: Experimental minimum brightness lowering plugin",
-            "date_modified": "2024-04-26T03:26:41.000Z",
+            "date_modified": "2024-05-09T04:18:12.000Z",
             "date_published": "2017-04-09T23:56:29.000Z",
             "author": {
                 "name": "devnoname120",
@@ -94,6 +94,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11447150?u=b795572f08180662c5c0584f0086387049a9ca6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official HEXFlow database - Cover images and background pictures for VitaHEX' \"HEXFlow\" launcher (and JimBob4000's Fork).</div>",
+            "url": "https://github.com/andiweli/hexflow-covers",
+            "title": "andiweli/hexflow-covers: The official HEXFlow database - Cover images and background pictures for VitaHEX' \"HEXFlow\" launcher (and JimBob4000's Fork).",
+            "date_modified": "2024-05-09T04:10:51.000Z",
+            "date_published": "2020-10-25T20:36:12.000Z",
+            "author": {
+                "name": "andiweli",
+                "url": "https://github.com/andiweli"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9152710?u=2a667282888b6e3d5f8d3e43a438a7040a2891af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Transform your PSVITA into a PC Controller</div>",
             "url": "https://github.com/Rinnegatamante/VitaPad",
             "title": "Rinnegatamante/VitaPad: Transform your PSVITA into a PC Controller",
@@ -102,17 +113,6 @@
             "author": {
                 "name": "Rinnegatamante",
                 "url": "https://github.com/Rinnegatamante"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11447150?u=b795572f08180662c5c0584f0086387049a9ca6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official HEXFlow database - Cover images and background pictures for VitaHEX' \"HEXFlow\" launcher (and JimBob4000's Fork).</div>",
-            "url": "https://github.com/andiweli/hexflow-covers",
-            "title": "andiweli/hexflow-covers: The official HEXFlow database - Cover images and background pictures for VitaHEX' \"HEXFlow\" launcher (and JimBob4000's Fork).",
-            "date_modified": "2024-04-27T11:34:32.000Z",
-            "date_published": "2020-10-25T20:36:12.000Z",
-            "author": {
-                "name": "andiweli",
-                "url": "https://github.com/andiweli"
             }
         },
         {
