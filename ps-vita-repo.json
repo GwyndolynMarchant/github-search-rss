@@ -17,17 +17,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34121543?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental PlayStation Vita emulator</div>",
-            "url": "https://github.com/Vita3K/Vita3K",
-            "title": "Vita3K/Vita3K: Experimental PlayStation Vita emulator",
-            "date_modified": "2024-05-17T02:29:00.000Z",
-            "date_published": "2018-01-26T22:45:05.000Z",
-            "author": {
-                "name": "Vita3K",
-                "url": "https://github.com/Vita3K"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61178?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cross-platform content manager assistant for the PS Vita (No longer maintained)</div>",
             "url": "https://github.com/codestation/qcma",
             "title": "codestation/qcma: Cross-platform content manager assistant for the PS Vita (No longer maintained)",
@@ -36,6 +25,17 @@
             "author": {
                 "name": "codestation",
                 "url": "https://github.com/codestation"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34121543?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental PlayStation Vita emulator</div>",
+            "url": "https://github.com/Vita3K/Vita3K",
+            "title": "Vita3K/Vita3K: Experimental PlayStation Vita emulator",
+            "date_modified": "2024-05-17T09:18:04.000Z",
+            "date_published": "2018-01-26T22:45:05.000Z",
+            "author": {
+                "name": "Vita3K",
+                "url": "https://github.com/Vita3K"
             }
         },
         {
@@ -171,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40346724?u=aa901a467c30f01ba79e66ddbe2cf8f91f9a0d65&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple homebrew for testing the input data on the PSVita made on Lua Player Plus Vita</div>",
-            "url": "https://github.com/Keinta15/Lua-Vita-Tester",
-            "title": "Keinta15/Lua-Vita-Tester: A simple homebrew for testing the input data on the PSVita made on Lua Player Plus Vita",
-            "date_modified": "2023-09-15T21:49:23.000Z",
-            "date_published": "2019-09-11T22:35:29.000Z",
-            "author": {
-                "name": "Keinta15",
-                "url": "https://github.com/Keinta15"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20092823?u=69ba5d342a5acd1dc3d03f460e9aa131d90d38ac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin that makes blurry textures sharper by changing scaling algorithm</div>",
             "url": "https://github.com/MuxaJlbl4/Vita-Nearest-Neighbour",
             "title": "MuxaJlbl4/Vita-Nearest-Neighbour: Plugin that makes blurry textures sharper by changing scaling algorithm",
@@ -193,14 +182,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1490889?u=883b3b9af502d1422f5f00b84a46b065942bd412&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Incomplete set of tools for MRG/MZX based engine</div>",
-            "url": "https://github.com/mchubby/psp-ayakashibito_tools",
-            "title": "mchubby/psp-ayakashibito_tools: Incomplete set of tools for MRG/MZX based engine",
-            "date_modified": "2023-11-27T17:44:49.000Z",
-            "date_published": "2014-02-24T00:59:14.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40346724?u=aa901a467c30f01ba79e66ddbe2cf8f91f9a0d65&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple homebrew for testing the input data on the PSVita made on Lua Player Plus Vita</div>",
+            "url": "https://github.com/Keinta15/Lua-Vita-Tester",
+            "title": "Keinta15/Lua-Vita-Tester: A simple homebrew for testing the input data on the PSVita made on Lua Player Plus Vita",
+            "date_modified": "2023-09-15T21:49:23.000Z",
+            "date_published": "2019-09-11T22:35:29.000Z",
             "author": {
-                "name": "mchubby",
-                "url": "https://github.com/mchubby"
+                "name": "Keinta15",
+                "url": "https://github.com/Keinta15"
             }
         },
         {
@@ -212,6 +201,17 @@
             "author": {
                 "name": "usineur",
                 "url": "https://github.com/usineur"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1490889?u=883b3b9af502d1422f5f00b84a46b065942bd412&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Incomplete set of tools for MRG/MZX based engine</div>",
+            "url": "https://github.com/mchubby/psp-ayakashibito_tools",
+            "title": "mchubby/psp-ayakashibito_tools: Incomplete set of tools for MRG/MZX based engine",
+            "date_modified": "2023-11-27T17:44:49.000Z",
+            "date_published": "2014-02-24T00:59:14.000Z",
+            "author": {
+                "name": "mchubby",
+                "url": "https://github.com/mchubby"
             }
         },
         {
