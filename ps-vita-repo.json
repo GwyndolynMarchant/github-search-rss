@@ -127,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13071547?u=2f3b2d05d6e95f8c0258cd72d2e3c3718a9f565e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Portable Final Burn Alpha</div>",
-            "url": "https://github.com/rsn8887/pfba",
-            "title": "rsn8887/pfba: Portable Final Burn Alpha",
-            "date_modified": "2024-02-08T18:24:58.000Z",
-            "date_published": "2017-01-24T22:24:05.000Z",
-            "author": {
-                "name": "rsn8887",
-                "url": "https://github.com/rsn8887"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/560596?u=69839b4b5f81ab794651e83a43173f966d59a7cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use a DS4 on your PSVita</div>",
             "url": "https://github.com/xerpi/ds4vita",
             "title": "xerpi/ds4vita: Use a DS4 on your PSVita",
@@ -146,6 +135,17 @@
             "author": {
                 "name": "xerpi",
                 "url": "https://github.com/xerpi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13071547?u=2f3b2d05d6e95f8c0258cd72d2e3c3718a9f565e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Portable Final Burn Alpha</div>",
+            "url": "https://github.com/rsn8887/pfba",
+            "title": "rsn8887/pfba: Portable Final Burn Alpha",
+            "date_modified": "2024-02-08T18:24:58.000Z",
+            "date_published": "2017-01-24T22:24:05.000Z",
+            "author": {
+                "name": "rsn8887",
+                "url": "https://github.com/rsn8887"
             }
         },
         {
@@ -160,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/522831?u=62e560bf87ec979b5a1af5656c25bc1de2ee95ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>taiHEN plugin that shows battery percent in statusbar</div>",
-            "url": "https://github.com/nowrep/vita-shellbat",
-            "title": "nowrep/vita-shellbat: taiHEN plugin that shows battery percent in statusbar",
-            "date_modified": "2024-03-27T13:30:40.000Z",
-            "date_published": "2017-05-18T08:48:58.000Z",
-            "author": {
-                "name": "nowrep",
-                "url": "https://github.com/nowrep"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40346724?u=aa901a467c30f01ba79e66ddbe2cf8f91f9a0d65&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple homebrew for testing the input data on the PSVita made on Lua Player Plus Vita</div>",
             "url": "https://github.com/Keinta15/Lua-Vita-Tester",
             "title": "Keinta15/Lua-Vita-Tester: A simple homebrew for testing the input data on the PSVita made on Lua Player Plus Vita",
@@ -179,6 +168,17 @@
             "author": {
                 "name": "Keinta15",
                 "url": "https://github.com/Keinta15"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/522831?u=62e560bf87ec979b5a1af5656c25bc1de2ee95ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>taiHEN plugin that shows battery percent in statusbar</div>",
+            "url": "https://github.com/nowrep/vita-shellbat",
+            "title": "nowrep/vita-shellbat: taiHEN plugin that shows battery percent in statusbar",
+            "date_modified": "2024-03-27T13:30:40.000Z",
+            "date_published": "2017-05-18T08:48:58.000Z",
+            "author": {
+                "name": "nowrep",
+                "url": "https://github.com/nowrep"
             }
         },
         {
@@ -204,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39589075?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsafe Rust FFI bindings to the psp2 headers.</div>",
-            "url": "https://github.com/vita-rust/psp2-sys",
-            "title": "vita-rust/psp2-sys: Unsafe Rust FFI bindings to the psp2 headers.",
-            "date_modified": "2023-06-18T08:55:26.000Z",
-            "date_published": "2018-05-24T11:23:27.000Z",
-            "author": {
-                "name": "vita-rust",
-                "url": "https://github.com/vita-rust"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/452720?u=7e9c371aedaa27d5656434600e1e89c0c97dca48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio.</div>",
             "url": "https://github.com/usineur/hode",
             "title": "usineur/hode: hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio.",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "usineur",
                 "url": "https://github.com/usineur"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39589075?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsafe Rust FFI bindings to the psp2 headers.</div>",
+            "url": "https://github.com/vita-rust/psp2-sys",
+            "title": "vita-rust/psp2-sys: Unsafe Rust FFI bindings to the psp2 headers.",
+            "date_modified": "2023-06-18T08:55:26.000Z",
+            "date_published": "2018-05-24T11:23:27.000Z",
+            "author": {
+                "name": "vita-rust",
+                "url": "https://github.com/vita-rust"
             }
         }
     ]
