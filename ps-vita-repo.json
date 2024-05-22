@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34121543?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental PlayStation Vita emulator</div>",
             "url": "https://github.com/Vita3K/Vita3K",
             "title": "Vita3K/Vita3K: Experimental PlayStation Vita emulator",
-            "date_modified": "2024-05-22T02:49:17.000Z",
+            "date_modified": "2024-05-22T04:44:51.000Z",
             "date_published": "2018-01-26T22:45:05.000Z",
             "author": {
                 "name": "Vita3K",
@@ -127,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/560596?u=69839b4b5f81ab794651e83a43173f966d59a7cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use a DS4 on your PSVita</div>",
-            "url": "https://github.com/xerpi/ds4vita",
-            "title": "xerpi/ds4vita: Use a DS4 on your PSVita",
-            "date_modified": "2024-05-09T07:05:32.000Z",
-            "date_published": "2016-12-26T15:33:29.000Z",
-            "author": {
-                "name": "xerpi",
-                "url": "https://github.com/xerpi"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13071547?u=2f3b2d05d6e95f8c0258cd72d2e3c3718a9f565e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Portable Final Burn Alpha</div>",
             "url": "https://github.com/rsn8887/pfba",
             "title": "rsn8887/pfba: Portable Final Burn Alpha",
@@ -146,6 +135,17 @@
             "author": {
                 "name": "rsn8887",
                 "url": "https://github.com/rsn8887"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/560596?u=69839b4b5f81ab794651e83a43173f966d59a7cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use a DS4 on your PSVita</div>",
+            "url": "https://github.com/xerpi/ds4vita",
+            "title": "xerpi/ds4vita: Use a DS4 on your PSVita",
+            "date_modified": "2024-05-09T07:05:32.000Z",
+            "date_published": "2016-12-26T15:33:29.000Z",
+            "author": {
+                "name": "xerpi",
+                "url": "https://github.com/xerpi"
             }
         },
         {
