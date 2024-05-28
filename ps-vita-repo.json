@@ -53,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2824100?u=691a9322ced036e4635779cfb1822616507609fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental minimum brightness lowering plugin</div>",
             "url": "https://github.com/devnoname120/vitabright",
             "title": "devnoname120/vitabright: Experimental minimum brightness lowering plugin",
-            "date_modified": "2024-05-10T16:35:30.000Z",
+            "date_modified": "2024-05-28T18:43:18.000Z",
             "date_published": "2017-04-09T23:56:29.000Z",
             "author": {
                 "name": "devnoname120",
@@ -215,14 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25725992?u=c370ff05e7ccd447b35a805be1babf3d7099ed87&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Application for PlayStation Vita to read manga or comics</div>",
-            "url": "https://github.com/Creckeryop/NOBORU",
-            "title": "Creckeryop/NOBORU: Application for PlayStation Vita to read manga or comics",
-            "date_modified": "2024-05-05T16:13:03.000Z",
-            "date_published": "2019-12-27T14:24:57.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9152710?u=2a667282888b6e3d5f8d3e43a438a7040a2891af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Advanced whitelister homebrew for PSVITA TV.</div>",
+            "url": "https://github.com/Rinnegatamante/AntiBlacklist",
+            "title": "Rinnegatamante/AntiBlacklist: Advanced whitelister homebrew for PSVITA TV.",
+            "date_modified": "2024-05-16T08:48:31.000Z",
+            "date_published": "2016-08-11T10:23:47.000Z",
             "author": {
-                "name": "Creckeryop",
-                "url": "https://github.com/Creckeryop"
+                "name": "Rinnegatamante",
+                "url": "https://github.com/Rinnegatamante"
             }
         }
     ]
