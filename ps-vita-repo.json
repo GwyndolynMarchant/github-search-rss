@@ -86,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1558589?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Pico-8 player/emulator for console homebrew</div>",
             "url": "https://github.com/jtothebell/fake-08",
             "title": "jtothebell/fake-08: A Pico-8 player/emulator for console homebrew",
-            "date_modified": "2024-05-28T21:51:21.000Z",
+            "date_modified": "2024-05-29T03:03:06.000Z",
             "date_published": "2020-04-11T04:04:11.000Z",
             "author": {
                 "name": "jtothebell",
@@ -204,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39589075?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsafe Rust FFI bindings to the psp2 headers.</div>",
-            "url": "https://github.com/vita-rust/psp2-sys",
-            "title": "vita-rust/psp2-sys: Unsafe Rust FFI bindings to the psp2 headers.",
-            "date_modified": "2023-06-18T08:55:26.000Z",
-            "date_published": "2018-05-24T11:23:27.000Z",
-            "author": {
-                "name": "vita-rust",
-                "url": "https://github.com/vita-rust"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/452720?u=7e9c371aedaa27d5656434600e1e89c0c97dca48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio.</div>",
             "url": "https://github.com/usineur/hode",
             "title": "usineur/hode: hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio.",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "usineur",
                 "url": "https://github.com/usineur"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39589075?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsafe Rust FFI bindings to the psp2 headers.</div>",
+            "url": "https://github.com/vita-rust/psp2-sys",
+            "title": "vita-rust/psp2-sys: Unsafe Rust FFI bindings to the psp2 headers.",
+            "date_modified": "2023-06-18T08:55:26.000Z",
+            "date_published": "2018-05-24T11:23:27.000Z",
+            "author": {
+                "name": "vita-rust",
+                "url": "https://github.com/vita-rust"
             }
         }
     ]
