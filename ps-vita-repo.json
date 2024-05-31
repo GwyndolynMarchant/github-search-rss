@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34121543?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental PlayStation Vita emulator</div>",
             "url": "https://github.com/Vita3K/Vita3K",
             "title": "Vita3K/Vita3K: Experimental PlayStation Vita emulator",
-            "date_modified": "2024-05-31T01:13:25.000Z",
+            "date_modified": "2024-05-31T10:53:46.000Z",
             "date_published": "2018-01-26T22:45:05.000Z",
             "author": {
                 "name": "Vita3K",
@@ -215,14 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9152710?u=2a667282888b6e3d5f8d3e43a438a7040a2891af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Advanced whitelister homebrew for PSVITA TV.</div>",
-            "url": "https://github.com/Rinnegatamante/AntiBlacklist",
-            "title": "Rinnegatamante/AntiBlacklist: Advanced whitelister homebrew for PSVITA TV.",
-            "date_modified": "2024-05-16T08:48:31.000Z",
-            "date_published": "2016-08-11T10:23:47.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/452720?u=7e9c371aedaa27d5656434600e1e89c0c97dca48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio.</div>",
+            "url": "https://github.com/usineur/hode",
+            "title": "usineur/hode: hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio.",
+            "date_modified": "2024-05-06T18:01:21.000Z",
+            "date_published": "2019-10-25T08:49:37.000Z",
             "author": {
-                "name": "Rinnegatamante",
-                "url": "https://github.com/Rinnegatamante"
+                "name": "usineur",
+                "url": "https://github.com/usineur"
             }
         }
     ]
