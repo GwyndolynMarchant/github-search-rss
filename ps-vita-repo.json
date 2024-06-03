@@ -17,17 +17,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61178?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cross-platform content manager assistant for the PS Vita (No longer maintained)</div>",
-            "url": "https://github.com/codestation/qcma",
-            "title": "codestation/qcma: Cross-platform content manager assistant for the PS Vita (No longer maintained)",
-            "date_modified": "2024-05-27T14:43:14.000Z",
-            "date_published": "2013-08-11T21:37:25.000Z",
-            "author": {
-                "name": "codestation",
-                "url": "https://github.com/codestation"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34121543?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental PlayStation Vita emulator</div>",
             "url": "https://github.com/Vita3K/Vita3K",
             "title": "Vita3K/Vita3K: Experimental PlayStation Vita emulator",
@@ -36,6 +25,17 @@
             "author": {
                 "name": "Vita3K",
                 "url": "https://github.com/Vita3K"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61178?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cross-platform content manager assistant for the PS Vita (No longer maintained)</div>",
+            "url": "https://github.com/codestation/qcma",
+            "title": "codestation/qcma: Cross-platform content manager assistant for the PS Vita (No longer maintained)",
+            "date_modified": "2024-05-27T14:43:14.000Z",
+            "date_published": "2013-08-11T21:37:25.000Z",
+            "author": {
+                "name": "codestation",
+                "url": "https://github.com/codestation"
             }
         },
         {
