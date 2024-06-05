@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20092823?u=69ba5d342a5acd1dc3d03f460e9aa131d90d38ac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>List of awesome stuff for PlayStation Vita</div>",
             "url": "https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita",
             "title": "MuxaJlbl4/Awesome-PlayStation-Vita: List of awesome stuff for PlayStation Vita",
-            "date_modified": "2024-06-05T06:29:24.000Z",
+            "date_modified": "2024-06-05T14:04:53.000Z",
             "date_published": "2020-06-25T10:30:51.000Z",
             "author": {
                 "name": "MuxaJlbl4",
@@ -193,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39589075?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsafe Rust FFI bindings to the psp2 headers.</div>",
-            "url": "https://github.com/vita-rust/psp2-sys",
-            "title": "vita-rust/psp2-sys: Unsafe Rust FFI bindings to the psp2 headers.",
-            "date_modified": "2023-06-18T08:55:26.000Z",
-            "date_published": "2018-05-24T11:23:27.000Z",
-            "author": {
-                "name": "vita-rust",
-                "url": "https://github.com/vita-rust"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1490889?u=883b3b9af502d1422f5f00b84a46b065942bd412&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Incomplete set of tools for MRG/MZX based engine</div>",
             "url": "https://github.com/mchubby/psp-ayakashibito_tools",
             "title": "mchubby/psp-ayakashibito_tools: Incomplete set of tools for MRG/MZX based engine",
@@ -212,6 +201,17 @@
             "author": {
                 "name": "mchubby",
                 "url": "https://github.com/mchubby"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39589075?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unsafe Rust FFI bindings to the psp2 headers.</div>",
+            "url": "https://github.com/vita-rust/psp2-sys",
+            "title": "vita-rust/psp2-sys: Unsafe Rust FFI bindings to the psp2 headers.",
+            "date_modified": "2023-06-18T08:55:26.000Z",
+            "date_published": "2018-05-24T11:23:27.000Z",
+            "author": {
+                "name": "vita-rust",
+                "url": "https://github.com/vita-rust"
             }
         },
         {
